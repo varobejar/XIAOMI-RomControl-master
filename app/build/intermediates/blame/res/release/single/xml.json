@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\statusbar.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\statusbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\launcher.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\root.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\root.xml"
+    },
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\bloqueo.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\bloqueo.xml"
+    },
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\apk.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\apk.xml"
+    },
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\sonido.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\sonido.xml"
+    },
+    {
+        "merged": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\res\\merged\\release\\xml\\systemui.xml",
+        "source": "C:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\src\\main\\res\\xml\\systemui.xml"
+    }
+]

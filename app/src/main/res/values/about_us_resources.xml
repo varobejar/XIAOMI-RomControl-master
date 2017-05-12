@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*      Created by Roberto Mariani and Anna Berkovitch, 2015-2016
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
+<resources>
+
+
+    <!--Contact info arrays-->
+
+    <!--In this array you will put the icons for contact information,
+    for example xda icon for your xda thread, site icon for your site, facebook icon and so on-->
+    <array name="about_contact_us_drawables" translatable="false">
+        <item>@drawable/icon_2</item>
+        <item>@drawable/icon_1</item>
+        <item>@drawable/icon_3</item>
+    </array>
+
+    <!--In this array you will put the titles for your contact info items. Keep the order consistent between all 3 arrays-->
+    <string-array name="about_contact_us_text" translatable="false">
+        <item>HTCSpain</item>
+        <item>HTC manía</item>
+        <item>XDA</item>
+    </string-array>
+
+    <!--In this array you will put the titles for the URL strings that will open once a user clicked on the item-->
+    <string-array name="about_contact_us_links" translatable="false">
+        <item>http://www.htcspain.com/foro/rom-s-samsung-galaxy-note-4-iv-929/rom-tw-5-1-1-xxs1cpc2-26-marzo-emotion-revolution-r14-aroma-installer-y-rom-control-estable-y-fluida-emotroid-team-htcspain-59644/</item>
+        <item>http://www.htcmania.com/showthread.php?t=1121120/</item>
+        <item>https://forum.xda-developers.com/note-4/snapdragon-dev/twrom-emotion-revolution-note-iv-t2976107/</item>
+    </string-array>
+
+
+
+    <!--Team info arrays-->
+    <array name="about_team_drawables" translatable="false">
+        <item>@drawable/icon_4</item>
+        <item>@drawable/icon_5</item>
+        <item>@drawable/icon_6</item>
+        <item>@drawable/icon_7</item>
+    </array>
+    <string-array name="about_team_names">
+        <item>DEVELOPERS</item>
+        <item>Pafcholini - Jcanonico - Ivanebdesign - Varoo10 - Rimgoru - Hanns - Motomorini - Aukhan - VaroBejar - Infernum - Kabata - Placiano - Mianfri</item>
+        <item>TESTERS and COLABORATORS</item>
+        <item>Vanito - ErDavis - Cheza - Eploxtion - Benjaone - Manugm - Lonegan - Pulsar - MikaelZ</item>
+    </string-array>
+    <string-array name="about_team_links" translatable="false">
+        <item>http://www.htcspain.com/</item>
+        <item>http://www.htcspain.com/</item>
+        <item>http://www.htcspain.com/</item>
+        <item>http://www.htcspain.com/</item>
+    </string-array>
+
+
+
+
+</resources>

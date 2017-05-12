@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Do not forget to include this in any locale specific folders for translation-->
+
+    <!--In the following array put your changelog items
+    Take as many lines as you need.
+    Add as many items as you want or delete some if those are too many
+    This order is how they will appear in the dialog
+    Make any order you want from top to bottom-->
+    <string-array name="changelog_items">
+        <item>Base oficial miui.ue</item>
+        <item>Root</item>
+        <item>Deodexed</item>
+        <item>Añadido Data</item>
+        <item>Añadido Init.d</item>
+        <item>Mejoras en Sonido. Dolby Digital</item>
+        <item>Eliminado Xposed</item>
+        <item>Mejoras en rendimiento y consumo</item>
+        <item>Añdido Control Emotion</item>
+        <item>---- 3 Minit Battery</item>
+        <item>---- Opciones reloj</item>
+        <item>---- StatusBar Gradient</item>
+        <item>---- 4 Tipos de Launcher</item>
+        <item>---- SystemUI Stock y customizable</item>
+    </string-array>
+
+    <!--This will be the dialog title.
+    Put your own rom version and name.
+    Have fun-->
+
+
+</resources>

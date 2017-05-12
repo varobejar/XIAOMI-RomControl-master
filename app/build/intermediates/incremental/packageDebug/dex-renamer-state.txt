@@ -1,0 +1,7 @@
+#Wed Apr 19 18:49:39 CEST 2017
+base.0=C\:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a6d7af5fb7b6ff368713d479bfe193109ffe2831
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a28bcecc0d0d7d5f71a955d5c6d29cf1fb196886\\classes.dex
+base.1=C\:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a28bcecc0d0d7d5f71a955d5c6d29cf1fb196886
+file.0=C\:\\Users\\varobejar\\Downloads\\XIAOMI-RomControl-master\\XIAOMI-RomControl-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_a6d7af5fb7b6ff368713d479bfe193109ffe2831\\classes.dex

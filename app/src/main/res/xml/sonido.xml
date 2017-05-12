@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="@string/sound_mobile">
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/sound_slow" app:scriptFileName="volumen_bajo.sh" app:rebootOptions="optional" app:showConfirmDialog="false" android:summary="sonido_bajo_descripcion" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/sound_mid" app:scriptFileName="volumen_medio.sh" app:rebootOptions="optional" app:showConfirmDialog="false" android:summary="sonido_medio_descripcion" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/sound_hight" app:scriptFileName="volumen_alto.sh" app:rebootOptions="optional" app:showConfirmDialog="false" android:summary="sonido_alto_descripcion" />
+    </PreferenceCategory>
+</PreferenceScreen>

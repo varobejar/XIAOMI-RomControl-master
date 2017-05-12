@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--/*      Created by Roberto Mariani and Anna Berkovitch, 2015-2016
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see <http://www.gnu.org/licenses/>.*/-->
+<resources>
+    <string-array name="theme_items">
+        <item>Tema claro</item>
+        <item>Tema oscuro</item>
+    </string-array>
+    <string-array name="backup_restore_items">
+        <item>Copia de seguridad</item>
+        <item>Restaurar copia</item>
+    </string-array>
+    <string-array name="custom_bg_type_entries">
+        <item>Imagen</item>
+        <item>Color sólido</item>
+        <item>Gradiente</item>
+    </string-array>
+    <string-array name="gradient_entries">
+        <item>De arriba a abajo</item>
+        <item>De abajo a arriba</item>
+        <item>De izquierda a derehca</item>
+        <item>De derecha a izquierda</item>
+    </string-array>
+    <string-array name="traffic_entries">
+        <item>Desactivado</item>
+        <item>Subida</item>
+        <item>Descarga</item>
+        <item>Ambos</item>
+    </string-array>
+    <string-array name="traffic_unit_entries">
+        <item>Bits por segundo</item>
+        <item>Bytes por segundo</item>
+        <item>KiloBytes por segundo</item>
+    </string-array>
+</resources>

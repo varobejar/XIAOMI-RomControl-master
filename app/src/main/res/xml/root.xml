@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceScreen android:icon="@drawable/iconroot" android:title="@string/root" android:summary="@string/root1">
+        <intent android:targetPackage="com.corner23.android.rootswitch" android:action="android.intent.action.MAIN" android:targetClass="com.corner23.android.rootswitch.MainActivity" />
+    </PreferenceScreen>
+</PreferenceScreen>

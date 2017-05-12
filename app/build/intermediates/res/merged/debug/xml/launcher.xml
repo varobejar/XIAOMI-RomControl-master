@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory android:title="@string/Types_Launcher">
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/StockTw" app:packageNameToKill="com.miui.home" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="stocktw.sh"/>
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/launcher_five" app:packageNameToKill="com.miui.home" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="5tw.sh"/>
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/launcher_six" app:packageNameToKill="com.miui.home" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="6tw.sh"/>
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/launcher_seven" app:packageNameToKill="com.miui.home" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="7tw.sh"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/toogle_number">
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/toogle3" app:rebootOptions="imminent" app:scriptFileName="toogle3.sh" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/toogle4" app:rebootOptions="imminent" app:scriptFileName="toogle4.sh" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/toogle5" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="toogle5.sh" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/toogle6" app:packageNameToKill="com.android.systemui" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="toogle6.sh" />
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/toogle7" app:packageNameToKill="com.android.systemui" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="toogle7.sh"/>
+        <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/toogle8" app:packageNameToKill="com.android.systemui" app:isSilent="false" app:rebootOptions="imminent" app:scriptFileName="toogle8.sh"/>
+    </PreferenceCategory>
+    <com.wubydax.romcontrol.v2.prefs.RunScriptPreference android:title="@string/SystemUI_Custom" android:summary="@string/SystemUI_with_modifications" app:rebootOptions="imminent" app:scriptFileName="toogle3.sh" />
+</PreferenceScreen>

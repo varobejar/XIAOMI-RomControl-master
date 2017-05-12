@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="about_team_names">
+        <item>CREADORES</item>
+        <item>Pafcholini - Jcanonico - Ivanebdesign - Varoo10 - Rimgoru - Hanns - Motomorini - Aukhan - VaroBejar - Infernum - Kabata - Placiano - Mianfri</item>
+        <item>TESTERS y COLABORADORES</item>
+        <item>Vanito - ErDavis - Cheza - Eploxtion - Benjaone - Manugm - Lonegan - Pulsar - Mikael Z</item>
+    </string-array>
+    <string-array name="backup_restore_items">
+        <item>Copia de seguridad</item>
+        <item>Restaurar copia</item>
+    </string-array>
+    <string-array name="changelog_items">
+        <item>Base oficial miui.ue</item>
+        <item>Root</item>
+        <item>Deodexed</item>
+        <item>Añadido Data</item>
+        <item>Añadido Init.d</item>
+        <item>Mejoras en Sonido. Dolby Digital</item>
+        <item>Eliminado Xposed</item>
+        <item>Mejoras en rendimiento y consumo</item>
+        <item>Añdido Control Emotion</item>
+        <item>---- 3 Minit Battery</item>
+        <item>---- Opciones reloj</item>
+        <item>---- StatusBar Gradient</item>
+        <item>---- 4 Tipos de Launcher</item>
+        <item>---- SystemUI Stock y customizable</item>
+    </string-array>
+    <string-array name="custom_bg_type_entries">
+        <item>Imagen</item>
+        <item>Color sólido</item>
+        <item>Gradiente</item>
+    </string-array>
+    <string-array name="gradient_entries">
+        <item>De arriba a abajo</item>
+        <item>De abajo a arriba</item>
+        <item>De izquierda a derehca</item>
+        <item>De derecha a izquierda</item>
+    </string-array>
+    <string-array name="theme_items">
+        <item>Tema claro</item>
+        <item>Tema oscuro</item>
+    </string-array>
+    <string-array name="traffic_entries">
+        <item>Desactivado</item>
+        <item>Subida</item>
+        <item>Descarga</item>
+        <item>Ambos</item>
+    </string-array>
+    <string-array name="traffic_unit_entries">
+        <item>Bits por segundo</item>
+        <item>Bytes por segundo</item>
+        <item>KiloBytes por segundo</item>
+    </string-array>
+    <string name="Apk_Launcher">Aplicación para Launcher</string>
+    <string name="Appearance_Stock_with_all_extras">Apariencia stock con modificaciones</string>
+    <string name="Autohide_Meter">Auto ocultar medida</string>
+    <string name="Autohide_Threshold">Auto ocultar limite</string>
+    <string name="Backgrounds">Fondos</string>
+    <string name="Batery_Icon_color">Color Icono Bateria</string>
+    <string name="Batery_Text_color">Color texto Bateria</string>
+    <string name="Battery_Changer">Cambiar Bateria</string>
+    <string name="Battery_Color">Color Bateria</string>
+    <string name="Battery_Icon_Settings">Ajustes Icono Bateria</string>
+    <string name="Battery_text_is_hidden">Ocultar texto Bateria</string>
+    <string name="Battery_text_shown">Mostrar texto Bateria</string>
+    <string name="Brightness_Back_Color">Color brillo modificando</string>
+    <string name="Brightness_Slider">Color brillo</string>
+    <string name="Busybox">Busybox</string>
+    <string name="Busybox_On_Rails">Busybox On Rails</string>
+    <string name="Camera_shortcut_in_Lockscreen">Camara en Bloqueo</string>
+    <string name="Change_custom_text">Cambiar texto personalizado</string>
+    <string name="Change_custom_text_color">Cambiar color Texto Personalizado</string>
+    <string name="Choose_Background_for_SView_Window">Cambiar fondo en Sview</string>
+    <string name="Choose_Your_Fav_Battery">Comprueba tu bateria favorita</string>
+    <string name="Choose_battery_percent_color">Cambiar color porcentaje bateria</string>
+    <string name="Choose_color">Cambiar color</string>
+    <string name="Choose_color_of_battery">Cambiar color de bateria</string>
+    <string name="Color_of_network_speed_text">Color de texto de velocidad conexion</string>
+    <string name="Custom_Text_Options">Opciones de Texto personalizado</string>
+    <string name="Custom_clock">Reloj personalizado</string>
+    <string name="Custom_text">Texto personalizado</string>
+    <string name="Development_Settings">Opciones de desarrollador</string>
+    <string name="Device_Info_Header">Infromación de telefono</string>
+    <string name="Device_Info_visibility">Visibilidad información de telefono</string>
+    <string name="Disable_On_Going_Notifications">Desactivar notificaciones en curso</string>
+    <string name="Display_Percentage">Porcentaje de bateria</string>
+    <string name="Display_Percentage_inside_Battery_Icon">Porcentaje bateria en el interior</string>
+    <string name="Display_SFinder">Pantalla Sfinder</string>
+    <string name="Display_Unit">Unidades</string>
+    <string name="Edit_text">Editar texto</string>
+    <string name="Effects_Unlocked">Efectos de desbloqueo</string>
+    <string name="Enable_apps_on_UPSM">Aplicaciones activadas en UPSM</string>
+    <string name="Galaxy_Icon_Themer">Tema de Iconos</string>
+    <string name="Go_to_Development_Settings_Menu">Ir a ajustes de desarrollador</string>
+    <string name="Greenify">Greenify</string>
+    <string name="Heads_Up_Notifications">Notificaciones</string>
+    <string name="Hibernate_Apks">Aplicaciones Hibernadas</string>
+    <string name="Hidden">Ocultar</string>
+    <string name="Icon_Signal_color">Color Icono Señal</string>
+    <string name="Icon_Wifi_color">Color Icono Wifi</string>
+    <string name="Internet_Meter">Velocidad de conexion</string>
+    <string name="Lockscreen_Clock">Reloj en Bloqueo</string>
+    <string name="Lockscreen_Date">Fecha en Bloqueo</string>
+    <string name="Lockscreen_Effects">Efectos de desbloqueo</string>
+    <string name="Lockscreen_Weather_and_Steps">Tiempo en Bloqueo</string>
+    <string name="Mem_Kill">Limpiador de memoria</string>
+    <string name="Memory_Cleaner">Limpiador de memoria</string>
+    <string name="Memory_Cleaner_Color">Color Limpiador de memoria</string>
+    <string name="Meter_Update_Frequency">Actualizacion velocidad de conexion</string>
+    <string name="Minit_Battery_Mod">3 Minit Battery</string>
+    <string name="Minit_Battery_is_hidden">Ocultar 3 Minit Battery</string>
+    <string name="Minit_Battery_shown">Mostrar 3 Minit Battery</string>
+    <string name="Network_Speed_Color">Color Velocidad de Conexion</string>
+    <string name="Network_traffic_always_shown">Mostrar siempre velocidad de conexion</string>
+    <string name="Network_traffic_will_autohide">Auto Ocultar velocidad de conexion</string>
+    <string name="Notificacions">Notificaciones</string>
+    <string name="Notification_Brightness">Barra de brillo</string>
+    <string name="Notification_Brightness_Visibility">Visibilidad Brillo</string>
+    <string name="Notifications_Colors">Color notificaciones</string>
+    <string name="Off">Apagado</string>
+    <string name="On">Encendido</string>
+    <string name="Ongoing_Notifications">Notificaciones en curso</string>
+    <string name="Percentage_Color">Color Porcentaje</string>
+    <string name="Phone_shortcut_in_Lockscreen">Boton llamadas en Bloqueo</string>
+    <string name="Position_Reloj">Posición reloj</string>
+    <string name="Potato_Gradient">Status bar Gradient</string>
+    <string name="Reboot_SystemUI">Reiniciar SystemUI</string>
+    <string name="Root_Access_Control">Acceso root</string>
+    <string name="S5_Toolbox">S5_Toolbox</string>
+    <string name="S_View_window_wallpaper">Fondos Sview</string>
+    <string name="Sfinder_Background_color">Fondo Sfinder</string>
+    <string name="Sfinder_Qconnect">Sfinder y Qconnect</string>
+    <string name="Show_All_Lockscreen_Info">Mostrar todo en Bloqueo</string>
+    <string name="Show_Hide_3Minit_Battery">Mostrar 3 minit battery</string>
+    <string name="Show_Hide_LockScreen_Elements">Mostrar/Ocultar opciones en Bloqueo</string>
+    <string name="Show_Hide_Stock_Battery">Mostrar bateria stock</string>
+    <string name="Shown">Mostrar</string>
+    <string name="StatusBar_Background">Fondo Statusbar</string>
+    <string name="Status_Bar_Backgrounds">Fondo Statusbar</string>
+    <string name="Status_Bar_Icon_color">Color Iconos statusbar</string>
+    <string name="Statusbar_Clock">Reloj statusbar</string>
+    <string name="StockTw">Launcher stock</string>
+    <string name="Stock_Battery_is_hidden">la bateria stock esta oculta</string>
+    <string name="Stock_Battery_shown">bateria stock mostrada</string>
+    <string name="SuperSu">Super Usuario</string>
+    <string name="Swype_to_Unlock_Text">Swype to Unlock Text</string>
+    <string name="SystemUI_Appearance_Stock">SystemUI original</string>
+    <string name="SystemUI_Custom">SystemUI customizado</string>
+    <string name="SystemUI_with_modifications">SystemUI con modificaciones</string>
+    <string name="TW_Swipe">Launcher Swipe</string>
+    <string name="Toggle_Buttons_Background">Boton toogles</string>
+    <string name="Toggle_Circle_Color">Color circulo toogles</string>
+    <string name="Toggle_Color">Color Toogle</string>
+    <string name="Toggle_Text">Texto Toogles</string>
+    <string name="Toggle_Text_Color">Color Texto de toogles</string>
+    <string name="Toogle_Background_color">Fondo Toogles</string>
+    <string name="Toogles">Toogles</string>
+    <string name="Traffic_Meter_Type">Tipo de tráfico de datos</string>
+    <string name="Types_Launcher">Tipos de Launcher</string>
+    <string name="Types_SystemUI">Tipos de SystemUI</string>
+    <string name="Visible_Toggles_Shown">Toogles visibles</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"NO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"SÍ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartir con %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="apk">Aplicaciones Emotion</string>
+    <string name="app_name">Emotion Control</string>
+    <string name="app_reboot_required_dialog_message">Para esta opción en necesario reiniciar</string>
+    <string name="app_reboot_required_dialog_title">La Aplicación necesita reiniciarse</string>
+    <string name="backup_and_restore">Copia de seguridad y restaurar</string>
+    <string name="backup_complete_toast">Copia de seguridad completa</string>
+    <string name="backup_restore_dialog_title">Backup/Restore Rom Control system data</string>
+    <string name="bloqueo">Bloqueo</string>
+    <string name="choose_backup_dialog_title">Porfavor comprueba copia de seguridad a restaurar</string>
+    <string name="color_sumary">Color sumario</string>
+    <string name="color_title">Color Título</string>
+    <string name="command_executed_success_toast">Ejecutado Correctamente</string>
+    <string name="confirm_script_dialog_message">¿Quieres que se inicie?</string>
+    <string name="cortinilla">Cortinilla</string>
+    <string name="dialog_color_picker">Comprueba Color</string>
+    <string name="find_app">Encontrar aplicación</string>
+    <string name="header_bg_color">Fondo Encabezamiento</string>
+    <string name="imminent_reboot_warning">Tu móbil se reiniciará inmediatamente tras ejecutarse el script</string>
+    <string name="launcher">Tipos de Launcher</string>
+    <string name="launcher_five">Launcher 5x5</string>
+    <string name="launcher_seven">Launcher 7x5</string>
+    <string name="launcher_six">Launcher 6x5</string>
+    <string name="more_options">Más Opciones</string>
+    <string name="no_backup_dialog_message">¿Quieres crear una nueva copia de seguridad ahora?</string>
+    <string name="no_backup_dialog_title">No hay copias de seguridad en este dispositivo</string>
+    <string name="no_su_dialog_title">No tienes acceso root</string>
+    <string name="press_color_to_apply">Presiona para aplicar</string>
+    <string name="reboot_device_text">Renicio de movil</string>
+    <string name="reboot_later_negative_button">rebot later negative button</string>
+    <string name="reboot_menu">Menu de reinicio</string>
+    <string name="reboot_now_dialog_button">Reiniciando ahora</string>
+    <string name="reboot_recovery_text">Reinicio en recovery</string>
+    <string name="reboot_required_dialog_title">Se requiere reinicio</string>
+    <string name="reboot_ui_text">Reinicio de SystemUI</string>
+    <string name="restore_complete_toast">Restauración completa</string>
+    <string name="restore_confirm_dialog_title">Por favor confirma restauración</string>
+    <string name="root_progress_dialog_message">Por favor espera</string>
+    <string name="root_progress_dialog_title">Obteniendo acceso Root</string>
+    <string name="root_tools_exception_toast">El archivo no fuciona o no tienes acceso root</string>
+    <string name="run_script_confirm_dialog_positive_button">Si</string>
+    <string name="run_script_confirm_dialog_title">Requerida Confirmación</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="set_theme">Aplica Tema</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="statusbar">StatusBar</string>
+    <string name="systemui">Tipo de SystemUI</string>
+    <string name="theme_dialog_title">Comprueba tema</string>
+    <string name="toogle_number">Número de Toogles</string>
+</resources>

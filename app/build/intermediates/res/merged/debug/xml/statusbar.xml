@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/Statusbar_Clock" android:summary="@string/Custom_clock" />
+    <PreferenceScreen android:title="@string/Position_Reloj">
+        <intent android:targetPackage="com.potato.clock.main" android:action="android.intent.action.MAIN" android:targetClass="com.potato.clock.main.Main" />
+    </PreferenceScreen>
+    <PreferenceCategory android:title="@string/Status_Bar_Backgrounds" />
+        <PreferenceScreen android:title="@string/Potato_Gradient" android:summary="@string/StatusBar_Background">
+            <intent android:targetPackage="com.potato.gradientapp" android:action="android.intent.action.MAIN" android:targetClass="com.potato.gradientapp.MainActivity" />
+        </PreferenceScreen>
+    <PreferenceCategory android:title="@string/Battery_Changer" />
+        <PreferenceScreen android:title="@string/Minit_Battery_Mod" android:summary="@string/Choose_Your_Fav_Battery">
+            <intent android:targetPackage="com.three.minit.minitbatterysettings" android:targetClass="com.three.minit.minitbatterysettings.MainActivity" />
+        </PreferenceScreen>
+</PreferenceScreen>
